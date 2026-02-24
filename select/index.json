@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Stuck In The Middle (7 ver.)",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-02-24T13:51:14.088304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stuck In The Middle",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/01_Stuck_In_The_Middle_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stuck In The Middle",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/02_Stuck_In_The_Middle_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stuck In The Middle",
+      "artist": "Louise",
+      "has_synced": true,
+      "path": "select/03_Stuck_In_The_Middle_Louise.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "Destine",
+      "has_synced": true,
+      "path": "select/04_Stuck_in_the_Middle_Destine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "stuck in the middle",
+      "artist": "93FEETOFSMOKE",
+      "has_synced": true,
+      "path": "select/05_stuck_in_the_middle_93FEETOFSMOKE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "stuck in the middle",
+      "artist": "babymonster",
+      "has_synced": true,
+      "path": "select/06_stuck_in_the_middle_babymonster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stuck in the Middle with You [Stuck in the Middle with You, 2009]",
+      "artist": "Stealers Wheel",
+      "has_synced": true,
+      "path": "select/07_Stuck_in_the_Middle_with_You_[Stuck_in_the_Middle_with_You,_2009]_Stealers_Wheel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "Tai Verdes",
+      "has_synced": true,
+      "path": "select/08_Stuck_in_the_Middle_Tai_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "The Replacements",
+      "has_synced": false,
+      "path": "select/09_Stuck_in_the_Middle_The_Replacements.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stuck In The Middle (Remix)",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/10_Stuck_In_The_Middle_(Remix)_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "MattyBRaps - Stuck In The Middle",
+      "artist": "MattyBRaps",
+      "has_synced": true,
+      "path": "select/11_MattyBRaps_-_Stuck_In_The_Middle_MattyBRaps.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "Tai Verdes",
+      "has_synced": true,
+      "path": "select/12_Stuck_in_the_Middle_Tai_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "Sono",
+      "has_synced": false,
+      "path": "select/13_Stuck_in_the_Middle_Sono.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "Duplex Heart",
+      "has_synced": false,
+      "path": "select/14_Stuck_in_the_Middle_Duplex_Heart.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stuck In The Middle (Acoustic)",
+      "artist": "MIKA",
+      "has_synced": false,
+      "path": "select/15_Stuck_In_The_Middle_(Acoustic)_MIKA.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stuck in the Middle",
+      "artist": "Replacements, The",
+      "has_synced": false,
+      "path": "select/16_Stuck_in_the_Middle_Replacements,_The.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stuck In The Middle",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_Stuck_In_The_Middle_BABYMONSTER.txt"
+    }
+  ]
+}
